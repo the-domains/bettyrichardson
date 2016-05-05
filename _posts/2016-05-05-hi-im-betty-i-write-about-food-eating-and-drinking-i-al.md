@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Hi, I'm Betty. I write about food, eating and drinking. I also take pictures. Loooots of pictures. "
-datePublished: '2016-05-05T07:47:14.253Z'
-dateModified: '2016-05-05T07:46:32.840Z'
+datePublished: '2016-05-05T07:48:18.611Z'
+dateModified: '2016-05-05T07:48:03.807Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-05-hi-im-betty-i-write-about-food-eating-and-drinking-i-al.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-05-hi-im-betty-i-write-about-food-eating-and-drinking-i-al.md
+starred: true
 url: hi-im-betty-i-write-about-food-eating-and-drinking-i-al/index.html
 _type: Article
 
